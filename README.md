@@ -9,23 +9,25 @@ A modern minimal Vite + React + TypeScript template with pre-configured ESLint, 
 - 💅 Pre-configured and extensible Prettier configuration
 - 🔬 Git hooks for code formatting and linting pre-commit
 
-## Usage
-
-git init
-
-yarn install
-
-yarn dev
-
-````
-
 ## Available commands
+
+Initialize repository
+
+```bash
+git init
+```
+
+Install dependencies
+
+```bash
+yarn install
+```
 
 Run in development mode
 
 ```bash
   yarn dev
-````
+```
 
 Create production build
 
