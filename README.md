@@ -11,8 +11,6 @@ A modern minimal Vite + React + TypeScript template with pre-configured ESLint, 
 
 ## Usage
 
-# Required if you want a repository and work with Git hooks
-
 git init
 
 yarn install
